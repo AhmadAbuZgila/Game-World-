@@ -1,6 +1,10 @@
 
 public class Main {
     public static void main(String[] args) {
+        
+        System.out.println("Hello! Welcome to Game World!");
+        System.out.println("=================================");
+        System.out.println();
 
         Item AmmoItem = new Item("Ammo",4,true);
         Item MedicalItem = new Item("Medical",2,true);
